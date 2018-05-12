@@ -1,0 +1,26 @@
+_repo: U.S.-Patent-4-293-314--Gelled-Fuel-Air-ExplosiveOctober-6-1981._26106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stull, Bertram O.
+    gutenberg_agent_id: '31799'
+    url: http://www.gutenberg.org/2009/agents/31799
+description: ''
+gutenberg_issued: '2008-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explosives'
+- !lcc 'TP'
+title: 'U.S. Patent 4,293,314: Gelled Fuel-Air Explosive
+
+  October 6, 1981.'
+url: http://www.gutenberg.org/ebooks/26106

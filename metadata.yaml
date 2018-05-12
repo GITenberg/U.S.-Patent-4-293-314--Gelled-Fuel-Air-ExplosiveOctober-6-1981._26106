@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31799'
     url: http://www.gutenberg.org/2009/agents/31799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26106#U.S.-Patent-4-293-314--Gelled-Fuel-Air-ExplosiveOctober-6-1981.
 gutenberg_issued: '2008-07-22'
 gutenberg_type: Text
 identifiers:
